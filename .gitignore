@@ -1,0 +1,9 @@
+7scenes_e2e_model/*
+7scenes_unsup_model/*
+cambridge_e2e_model/*
+cambridge_unsup_model/*
+
+__pycache__/
+*.pkl
+
+removed_file/*
